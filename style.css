@@ -406,6 +406,13 @@ a {
   font-weight: 500;
 }
 
+.new {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 500;
+  background-color: #00aeff7a;
+}
+
 /* Projects End */
 /* Tutorials Start */
 
