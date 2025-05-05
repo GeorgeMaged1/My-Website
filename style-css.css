@@ -1,0 +1,32 @@
+.main{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.vedio_link{
+    text-align: center;
+    font-size: 40px;
+    color: #e7c6ff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.author_link{
+    font-size: 30px;
+    color: #b8c0ff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.author_link:visited{
+    color: #c8b6ff;
+}
+.author_link_h3{
+    font-size: 30px;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
